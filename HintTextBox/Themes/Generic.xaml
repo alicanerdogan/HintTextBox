@@ -2,6 +2,5 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="/HintTextBox;component/Themes/HintTextBox.xaml"/>
-        <ResourceDictionary Source="/HintTextBox;component/Themes/TweetBox.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
